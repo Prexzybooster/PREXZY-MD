@@ -1,7 +1,7 @@
 {
-  "name": "Ethix-MD",
+  "name": "PREXZY-MD",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "PREXZY-MD latest multi device whatsapp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -9,8 +9,8 @@
     "stop": "pm2 stop Ethix-MD",
     "restart": "pm2 restart Ethix-MD"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ethix-Xsid",
+  "keywords": ["prexzy-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Prexzy",
   "license": "ISC",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.5",
